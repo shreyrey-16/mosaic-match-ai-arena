@@ -19,6 +19,9 @@ A gamified computer vision project that compares human image matching with AI-ba
 
 ## Dataset
 A selected subset of images from the [Similix Image Dataset on Kaggle](https://www.kaggle.com/datasets/ashishpatel8736/similix-image-dataset/data) is used for the matching game.
+For the complete dataset, download the images from Kaggle and place the extracted image files inside the images/ directory in the project root.
+
+The repository may contain only a small sample of images to keep the download size manageable. The game uses the available images in this directory to generate matching rounds.
 
 ## Run locally
 
